@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportsElo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed17e02cd186003e99d14ce63483a7546b3f2350")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportsElo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportsElo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

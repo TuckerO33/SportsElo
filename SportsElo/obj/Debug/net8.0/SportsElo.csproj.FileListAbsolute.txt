@@ -28,3 +28,4 @@ C:\Users\tucke\Desktop\Personal Projects\SportsElo\SportsElo\obj\Debug\net8.0\re
 C:\Users\tucke\Desktop\Personal Projects\SportsElo\SportsElo\obj\Debug\net8.0\SportsElo.pdb
 C:\Users\tucke\Desktop\Personal Projects\SportsElo\SportsElo\obj\Debug\net8.0\SportsElo.genruntimeconfig.cache
 C:\Users\tucke\Desktop\Personal Projects\SportsElo\SportsElo\obj\Debug\net8.0\ref\SportsElo.dll
+C:\Users\tucke\Desktop\Personal Projects\SportsElo\SportsElo\obj\Debug\net8.0\SportsElo.sourcelink.json
