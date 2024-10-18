@@ -1,5 +1,10 @@
 {
     "require": {
-        "jasonroman/nba-api": "^1.0"
-    }
+        "jasonroman/nba-api": "^1.0",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "config": {
+    "platform-check": false
+}
+
 }
